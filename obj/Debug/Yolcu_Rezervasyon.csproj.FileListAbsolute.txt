@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\bin\Debug\Yolcu_Rezervasyon.exe.config
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\bin\Debug\Yolcu_Rezervasyon.exe
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\bin\Debug\Yolcu_Rezervasyon.pdb
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.Form1.resources
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.Properties.Resources.resources
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.exe
+C:\Users\Ali\source\repos\Yolcu_Rezervasyon\Yolcu_Rezervasyon\obj\Debug\Yolcu_Rezervasyon.pdb
